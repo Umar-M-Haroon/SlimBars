@@ -1,0 +1,10 @@
+Package: com.iforgottonamethis.dietbarios8
+Name: DietBar iOS8
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Umar Haroon
+Author: Umar Haroon
+Section: Tweaks
+Version: 0.0.1-11
+Installed-Size: 72
